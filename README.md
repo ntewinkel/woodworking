@@ -1,2 +1,4 @@
 # woodworking
-Woodworking notes and diagrams related to projects on my blog: TechBlog.mulBerryLand.com
+Woodworking notes and diagrams related to projects.
+
+Sorry, nothing to share yet!
